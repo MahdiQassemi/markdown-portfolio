@@ -1,4 +1,3 @@
-# ZABLAB
 ---
 layout: default
 ---
